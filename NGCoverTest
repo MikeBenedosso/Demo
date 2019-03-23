@@ -1,0 +1,28 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.googleapis.com",
+  "@type": "ARArtifact",
+  "arTarget": {
+    "@type": "ARImageTarget",
+    "name" : "NatGeo: Searching for Afghan Girl",
+    "image": "https://raw.githubusercontent.com/MikeBenedosso/Demo/master/afghancover.jpg"
+
+  },
+  "arPlacement": {
+    "@type": "ARPlanarReplacement",
+    "scaleMode": "ScaleModeFit"
+  },
+  "arContent": {
+    "@type": "VideoObject",
+    "name": "Discover more of the story of our famous cover",
+    "contentUrl": "https://raw.githubusercontent.com/MikeBenedosso/Demo/master/afghantwo.mp4",
+    "image": "https://raw.githubusercontent.com/MikeBenedosso/Demo/master/afghancover.jpg",
+    "url": "https://www.youtube.com/watch?v=cK6EnFu3NHc&t=47s",
+    "publisher": {
+      "@type": "Organization",
+      "name": "National Geographic",
+      "logo": "https://raw.githubusercontent.com/MikeBenedosso/Demo/master/National-Geographic-logo.png"
+    }
+  }
+}
+</script>
